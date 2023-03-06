@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jest": "^29.4.3",
+    "normalize.css": "^8.0.1"
+  }
+}
